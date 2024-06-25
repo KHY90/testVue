@@ -1,0 +1,33 @@
+{
+  "post": [
+    {
+      "id": "2",
+      "title": "별 헤는 밤",
+      "content": "계절이 지나가는 하늘에는 가을로 가득 차 있습니다 나는 아무 걱정도 없이 가을 속의 별들을 다 헤일 듯합니다.",
+      "img": "https://image.yes24.com/goods/94507895/XL"
+    },
+    {
+      "id": "3",
+      "title": "운수 좋은 날",
+      "content": "아내의 병이 더 악화된 일도 있었는데, 며칠을 굶은 아내가 '김첨지가 오래간만에 돈을 벌어서 산 조로 밥을 지었는데 다 익지도 않은 밥을 급하게 욱여넣으며 먹다가 체한 일'이었다. 여기서 체했다는 것은 식도에 밥이 걸렸다는 게 아니라, 갑작스레 많은 양의 음식을 먹어서 앓아누운 것. 오래 굶은 사람은 평범한 음식을 바로 먹으면 소화는커녕 목숨이 위험할 수도 있다.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrOXqnaFEhzm5I-QMPiONj_v_RnugjIoTKA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "송재희 멍청이",
+      "content": "판결이다",
+      "img": "https://mail.google.com/mail/u/2?ui=2&ik=1e992eab88&attid=0.1&permmsgid=msg-f:1802811282849702268&th=1904df4f5f52a17c&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9CrzPd5Ug0wtp76wH3CrnnaMEFk3eQwXSXRMEcf_DRbN5vL8CVPw7mmfeAHqmcXehhorwGaBzHT8MQEYVJjB7sMkk8n5OMB_LbpiGgFMRZUUEq9Bp7KK1DhT8&disp=emb&realattid=ii_lxtzq2f70"
+    },
+    {
+      "id": "4",
+      "title": "test",
+      "content": "test",
+      "img": "https://mail.google.com/mail/u/2?ui=2&ik=1e992eab88&attid=0.1&permmsgid=msg-f:1802811282849702268&th=1904df4f5f52a17c&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9CrzPd5Ug0wtp76wH3CrnnaMEFk3eQwXSXRMEcf_DRbN5vL8CVPw7mmfeAHqmcXehhorwGaBzHT8MQEYVJjB7sMkk8n5OMB_LbpiGgFMRZUUEq9Bp7KK1DhT8&disp=emb&realattid=ii_lxtzq2f70"
+    }
+  ],
+  "kiosk": [
+    {
+      "id": "3449"
+    }
+  ]
+}
