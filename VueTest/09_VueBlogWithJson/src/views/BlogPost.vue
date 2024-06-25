@@ -45,6 +45,7 @@ const handler = () => {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
+  border-radius: 15px;
 }
 
 .titleContainer {

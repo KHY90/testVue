@@ -20,11 +20,13 @@ main {
   margin-left: auto;
   margin-right: auto;
   height: 90vh;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   padding: 13px;
   border: 1px solid black;
+  border-radius: 15px;
+  width: 90%;
 }
 .home {
-  background-color: rgba(255, 135, 135, 0.452);
+  background-color: rgb(132, 134, 255);
 }
 </style>

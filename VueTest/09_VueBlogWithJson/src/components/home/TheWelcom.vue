@@ -19,6 +19,6 @@ onMounted(()=>{
 
 <style scoped>
 .listBox{
-    width: 70%;
+    width: 90%;
 }
 </style>

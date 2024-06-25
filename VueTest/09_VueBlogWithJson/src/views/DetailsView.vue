@@ -61,6 +61,7 @@ const deleteMethod = () =>{
 
 <style scoped>
 .blogContainer {
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -69,7 +70,7 @@ const deleteMethod = () =>{
     border: 1px solid;
     margin-left: auto;
     margin-right: auto;
-
+    background-color: rgb(208, 209, 253);
 }
 
 .titleContainer {
